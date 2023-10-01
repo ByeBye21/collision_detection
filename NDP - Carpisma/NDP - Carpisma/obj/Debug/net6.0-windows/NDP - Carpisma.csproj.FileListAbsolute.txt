@@ -1,0 +1,17 @@
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\bin\Debug\net6.0-windows\NDP - Carpisma.exe
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\bin\Debug\net6.0-windows\NDP - Carpisma.deps.json
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\bin\Debug\net6.0-windows\NDP - Carpisma.runtimeconfig.json
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\bin\Debug\net6.0-windows\NDP - Carpisma.dll
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\bin\Debug\net6.0-windows\NDP - Carpisma.pdb
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.csproj.AssemblyReference.cache
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP___Carpisma.Form1.resources
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.csproj.GenerateResource.cache
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.AssemblyInfoInputs.cache
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.AssemblyInfo.cs
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.csproj.CoreCompileInputs.cache
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.dll
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\refint\NDP - Carpisma.dll
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.pdb
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\NDP - Carpisma.genruntimeconfig.cache
+C:\Users\Bye Bye\Desktop\New folder (2)\NDP - Carpisma\NDP - Carpisma\obj\Debug\net6.0-windows\ref\NDP - Carpisma.dll
