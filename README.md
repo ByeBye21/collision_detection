@@ -1,4 +1,4 @@
-#collision_detection
+# collision_detection
 
 bir statik sınıf oluşturarak farklı geometrik şekillerin çarpışma denetimlerini gerçekleştirdik. Bu sınıfın metotları, nokta, dikdörtgen, çember, küre, silindir ve dikdörtgen prizma gibi geometrik nesneler arasındaki çarpışmaları kontrol ediliyor.
 
